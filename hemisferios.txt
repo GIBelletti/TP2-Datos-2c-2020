@@ -1,0 +1,80 @@
+Billing_Country,hemisferio
+Japan,Norte
+United States,Norte
+Germany,Norte
+Australia,Norte
+India,Norte
+Netherlands,Norte
+Singapore,Norte
+France,Norte
+Spain,Norte
+Italy,Norte
+United Kingdom,Norte
+Belgium,Norte
+China,Norte
+Thailand,Norte
+Austria,Norte
+Indonesia,Norte
+Philippines,Norte
+Luxembourg,Norte
+Canada,Norte
+Jordan,Norte
+Sri Lanka,Norte
+Poland,Norte
+Cyprus,Norte
+United Arab Emirates,Norte
+New Zealand,Sur
+Norway,Norte
+Viet Nam,Norte
+Taiwan,Norte
+Portugal,Norte
+Switzerland,Norte
+Pakistan,Norte
+Turkey,Norte
+Saudi Arabia,Norte
+Puerto Rico,Norte
+Hungary,Norte
+South Africa,Sur
+Ireland,Norte
+'Korea, Democratic People's Republic of',Norte
+Lebanon,Norte
+Denmark,Norte
+Czech Republic,Norte
+Greece,Norte
+French Southern Territories,Norte
+Sweden,Norte
+Malta,Norte
+Brazil,Sur
+Egypt,Norte
+Korea, Republic of,Norte
+Myanmar,Norte
+Macedonia, the former Yugoslav Republic of,Norte
+Mexico,Norte
+Cambodia,Norte
+Bulgaria,Norte
+Kuwait,Norte
+Belarus,Norte
+Armenia,Norte
+Jamaica,Norte
+Reunion,Norte
+Bahrain,Norte
+Palestine,Norte
+Estonia,Norte
+Albania,Norte
+Ghana,Norte
+Slovakia,Norte
+Bangladesh,Norte
+Belize,Norte
+Libya,Norte
+Colombia,Norte
+Liechtenstein,Norte
+Chile,Sur
+Malaysia,Norte
+Kenya,Norte
+Ecuador,Sur
+Peru,Sur
+Argentina,Sur
+Oman,Norte
+Morocco,Norte
+Bosnia and Herzegovina,Norte
+Dominican Republic,Norte
