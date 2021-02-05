@@ -36,7 +36,7 @@ Puerto Rico,Norte
 Hungary,Norte
 South Africa,Sur
 Ireland,Norte
-'Korea, Democratic People's Republic of',Norte
+"Korea, Democratic People's Republic of",Norte
 Lebanon,Norte
 Denmark,Norte
 Czech Republic,Norte
@@ -46,9 +46,9 @@ Sweden,Norte
 Malta,Norte
 Brazil,Sur
 Egypt,Norte
-Korea, Republic of,Norte
+"Korea, Republic of",Norte
 Myanmar,Norte
-Macedonia, the former Yugoslav Republic of,Norte
+"Macedonia, the former Yugoslav Republic of",Norte
 Mexico,Norte
 Cambodia,Norte
 Bulgaria,Norte
@@ -78,3 +78,7 @@ Oman,Norte
 Morocco,Norte
 Bosnia and Herzegovina,Norte
 Dominican Republic,Norte
+None,Desconocido
+Bermuda,Norte
+Finland,Norte
+Mongolia,Norte
